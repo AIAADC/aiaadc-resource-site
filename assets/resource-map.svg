@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" role="img" aria-labelledby="title desc">
+  <title id="title">AIAADC 资源流转图</title>
+  <desc id="desc">GitHub 源仓、资源网站和镜像下载三部分连接的示意图</desc>
+  <rect width="560" height="360" fill="#ffffff"/>
+  <g fill="none" stroke="#dfe4dc" stroke-width="2">
+    <path d="M160 160h92"/>
+    <path d="M308 160h92"/>
+    <path d="M280 206v56"/>
+  </g>
+  <g>
+    <rect x="34" y="92" width="126" height="136" rx="8" fill="#edf7f4" stroke="#0f766e"/>
+    <text x="97" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#0b514c">GitHub</text>
+    <text x="97" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#5e665f">资料源仓</text>
+    <circle cx="70" cy="190" r="8" fill="#0f766e"/>
+    <circle cx="98" cy="190" r="8" fill="#d97706"/>
+    <circle cx="126" cy="190" r="8" fill="#334eac"/>
+  </g>
+  <g>
+    <rect x="216" y="70" width="128" height="180" rx="8" fill="#f6f7f2" stroke="#17201b"/>
+    <text x="280" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17201b">PWA 网站</text>
+    <rect x="246" y="146" width="68" height="10" rx="5" fill="#0f766e"/>
+    <rect x="246" y="168" width="68" height="10" rx="5" fill="#d97706"/>
+    <rect x="246" y="190" width="68" height="10" rx="5" fill="#334eac"/>
+  </g>
+  <g>
+    <rect x="400" y="92" width="126" height="136" rx="8" fill="#fff7e8" stroke="#d97706"/>
+    <text x="463" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#8a4b00">镜像下载</text>
+    <text x="463" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#5e665f">高速入口</text>
+    <path d="M438 192h50m-18-18 18 18-18 18" fill="none" stroke="#d97706" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <rect x="198" y="262" width="164" height="54" rx="8" fill="#eef2ff" stroke="#334eac"/>
+    <text x="280" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#334eac">免费子域名发布</text>
+  </g>
+  <g fill="#17201b">
+    <circle cx="188" cy="160" r="5"/>
+    <circle cx="372" cy="160" r="5"/>
+    <circle cx="280" cy="240" r="5"/>
+  </g>
+</svg>
