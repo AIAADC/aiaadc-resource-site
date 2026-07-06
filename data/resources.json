@@ -1,0 +1,326 @@
+{
+  "generatedAt": "2026-07-06T22:50:49.486Z",
+  "source": "https://github.com/AIAADC",
+  "resources": [
+    {
+      "name": "Physics",
+      "title": "大学物理",
+      "description": "大学物理资源整理",
+      "grade": "大一",
+      "type": "课程资料",
+      "tags": [
+        "物理",
+        "课程资料"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Physics",
+      "mirrorUrl": "",
+      "updatedAt": "2026-07-05T11:09:48Z",
+      "stars": 2
+    },
+    {
+      "name": "Circuit-Theory",
+      "title": "电路理论",
+      "description": "电路理论资源整理",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "电路",
+        "课程资料"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Circuit-Theory",
+      "mirrorUrl": "",
+      "updatedAt": "2026-07-04T08:49:32Z",
+      "stars": 3
+    },
+    {
+      "name": "Resources-for-sophomore-in-AIA",
+      "title": "大二资源总仓",
+      "description": "大二相关资源整理",
+      "grade": "大二",
+      "type": "总仓",
+      "tags": [
+        "大二",
+        "资源导航"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Resources-for-sophomore-in-AIA",
+      "mirrorUrl": "",
+      "updatedAt": "2026-06-28T13:30:24Z",
+      "stars": 13
+    },
+    {
+      "name": "Final-Exam-Presentation",
+      "title": "期末分享会",
+      "description": "期末分享会资料整理",
+      "grade": "专题",
+      "type": "分享会",
+      "tags": [
+        "期末",
+        "分享会",
+        "复习"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Final-Exam-Presentation",
+      "mirrorUrl": "",
+      "updatedAt": "2026-06-27T11:47:33Z",
+      "stars": 0
+    },
+    {
+      "name": "Note-Sharing",
+      "title": "个人笔记分享",
+      "description": "个人笔记分享（请以自己班级+名字为文件夹名）",
+      "grade": "专题",
+      "type": "笔记",
+      "tags": [
+        "笔记",
+        "共建"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Note-Sharing",
+      "mirrorUrl": "",
+      "updatedAt": "2026-06-27T11:39:03Z",
+      "stars": 0
+    },
+    {
+      "name": "Resources-for-freshman-in-AIA",
+      "title": "大一资源总仓",
+      "description": "大一资源整理",
+      "grade": "大一",
+      "type": "总仓",
+      "tags": [
+        "大一",
+        "资源导航"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Resources-for-freshman-in-AIA",
+      "mirrorUrl": "",
+      "updatedAt": "2026-06-24T23:59:45Z",
+      "stars": 22
+    },
+    {
+      "name": "Numerical-Methods",
+      "title": "数值计算方法",
+      "description": "本仓库包含了数值计算方法的相关资料，包括课件，参考书等等",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "数值计算",
+        "课件",
+        "参考书"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Numerical-Methods",
+      "mirrorUrl": "",
+      "updatedAt": "2026-06-09T08:45:22Z",
+      "stars": 0
+    },
+    {
+      "name": "AIAADC-Complex-Functions-and-Integral-Transforms",
+      "title": "复变函数与积分变换",
+      "description": "复变函数与积分变换",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "复变函数",
+        "积分变换"
+      ],
+      "githubUrl": "https://github.com/AIAADC/AIAADC-Complex-Functions-and-Integral-Transforms",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-19T00:23:08Z",
+      "stars": 0
+    },
+    {
+      "name": "Introduction-to-Signals-and-Systems",
+      "title": "信号与系统引论",
+      "description": "信号与系统引论",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "信号与系统"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Introduction-to-Signals-and-Systems",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:04:18Z",
+      "stars": 0
+    },
+    {
+      "name": "Data-Structure",
+      "title": "数据结构",
+      "description": "数据结构",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "数据结构",
+        "程序设计"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Data-Structure",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:04:16Z",
+      "stars": 0
+    },
+    {
+      "name": "Introduction-to-Artificial-Intelligence",
+      "title": "人工智能导论",
+      "description": "人工智能导论",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "人工智能"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Introduction-to-Artificial-Intelligence",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:04:14Z",
+      "stars": 0
+    },
+    {
+      "name": "Digital-circuit",
+      "title": "数字电路",
+      "description": "数字电路资料整理",
+      "grade": "大一",
+      "type": "课程资料",
+      "tags": [
+        "数字电路",
+        "电路"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Digital-circuit",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:04:11Z",
+      "stars": 0
+    },
+    {
+      "name": "Discrete-Mathematics",
+      "title": "离散数学",
+      "description": "离散数学",
+      "grade": "大一",
+      "type": "课程资料",
+      "tags": [
+        "离散数学",
+        "数学"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Discrete-Mathematics",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:04:04Z",
+      "stars": 1
+    },
+    {
+      "name": "Analog-Electronics-Technology",
+      "title": "模拟电子技术",
+      "description": "模拟电子技术",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "模电",
+        "电子技术"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Analog-Electronics-Technology",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:04:02Z",
+      "stars": 0
+    },
+    {
+      "name": "Probability-and-Statistics",
+      "title": "概率论与数理统计",
+      "description": "概率论与数理统计资源整理",
+      "grade": "大一",
+      "type": "课程资料",
+      "tags": [
+        "概率论",
+        "统计",
+        "数学"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Probability-and-Statistics",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:03:56Z",
+      "stars": 0
+    },
+    {
+      "name": "linear-algebra",
+      "title": "线性代数",
+      "description": "线性代数课件",
+      "grade": "大一",
+      "type": "课程资料",
+      "tags": [
+        "线性代数",
+        "数学",
+        "课件"
+      ],
+      "githubUrl": "https://github.com/AIAADC/linear-algebra",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:03:53Z",
+      "stars": 1
+    },
+    {
+      "name": "wjf",
+      "title": "微积分",
+      "description": "微积分课堂课件整理",
+      "grade": "大一",
+      "type": "课程资料",
+      "tags": [
+        "微积分",
+        "数学",
+        "课件"
+      ],
+      "githubUrl": "https://github.com/AIAADC/wjf",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:03:51Z",
+      "stars": 1
+    },
+    {
+      "name": "C-Programming-Language",
+      "title": "C 语言程序设计",
+      "description": "C语言课件整理",
+      "grade": "大一",
+      "type": "课程资料",
+      "tags": [
+        "C语言",
+        "程序设计",
+        "课件"
+      ],
+      "githubUrl": "https://github.com/AIAADC/C-Programming-Language",
+      "mirrorUrl": "",
+      "updatedAt": "2026-05-07T06:03:47Z",
+      "stars": 1
+    },
+    {
+      "name": "Principles-of-Automatic-Control",
+      "title": "自动控制原理",
+      "description": "自动控制原理课件",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "自动控制",
+        "课件"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Principles-of-Automatic-Control",
+      "mirrorUrl": "",
+      "updatedAt": "2026-04-12T10:46:08Z",
+      "stars": 1
+    },
+    {
+      "name": "Midterm-Presentation",
+      "title": "期中分享会",
+      "description": "期中分享会资料",
+      "grade": "专题",
+      "type": "分享会",
+      "tags": [
+        "期中",
+        "分享会",
+        "复习"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Midterm-Presentation",
+      "mirrorUrl": "",
+      "updatedAt": "2026-03-25T12:52:01Z",
+      "stars": 0
+    },
+    {
+      "name": "Foundation-of-data-science",
+      "title": "数据科学基础",
+      "description": "数据科学基础课件整理",
+      "grade": "大二",
+      "type": "课程资料",
+      "tags": [
+        "数据科学",
+        "课件"
+      ],
+      "githubUrl": "https://github.com/AIAADC/Foundation-of-data-science",
+      "mirrorUrl": "",
+      "updatedAt": "2026-01-13T04:12:16Z",
+      "stars": 0
+    }
+  ]
+}
