@@ -1,0 +1,10 @@
+{
+  "name": "aiaadc-resource-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "update:data": "node scripts/update-from-github.mjs"
+  }
+}
